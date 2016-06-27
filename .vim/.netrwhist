@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/mingliang/.vim'
-let g:netrw_dirhist_2='/home/mingliang/Dropbox/private/personal/Data/backup/config/vim/ubuntu_gvim/.vim/phpmanual'
-let g:netrw_dirhist_3='/home/mingliang/Dropbox/private/personal/Data/backup/config/vim/ubuntu_gvim/.vim/plugin'
-let g:netrw_dirhist_4='/Applications/MAMP/htdocs/drupal6/D:\xampp\tmp'
-let g:netrw_dirhist_5='/Users/mingliang'
